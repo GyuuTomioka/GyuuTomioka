@@ -22,7 +22,7 @@ ___
  
 <div> 
   <a href="https://youtube.com/channel/UC8DcGKSSBm7kv2lXsjAmmMQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/tio_tomioka_ofc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/silasvljunior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "http://wa.me/554498220867"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
