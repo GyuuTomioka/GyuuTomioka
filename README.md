@@ -2,16 +2,16 @@
   <a href="https://github.com/GyuuTomioka"><img src="https://cardivo.vercel.app/api?name=Tio Tomioka&description=Olá Tudo Bem?, eu sou o Tio Tomioka, apenas um mero curioso em aprender a programar&image=https://i.ibb.co/kcMw5jF/me.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=Tio Tomioka&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
-<p align="center"> <a href="Manish"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=GyuuTomioka&label=Visitantes&color=green&style=flat-square" alt="Tio Tomioka" /></a> </p><br> 
+<p align="center"> <a href="Manish"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=SilasJr-dev&label=Visitantes&color=green&style=flat-square" alt="Tio Tomioka" /></a> </p><br> 
     
 ___
 <div align="center">
-  <a href="https://github.com/GyuuTomioka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GyuuTomioka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuuTomioka&layout=compact&langs_count=7&theme=tokyonight"/><a>
+  <a href="https://github.com/SilasJr-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilasJr-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasJr-dev&layout=compact&langs_count=7&theme=tokyonight"/><a>
 </div>
 <p align="center">
-  <a href="https://github.com/GyuuTomioka"><img src="https://github-readme-streak-stats.herokuapp.com?user=GyuuTomioka&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/SilasJr-dev"><img src="https://github-readme-streak-stats.herokuapp.com?user=SilasJr-dev&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
