@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/GyuuTomioka"><img src="https://cardivo.vercel.app/api?name=Tio Tomioka&description=Olá Tudo Bem?, eu sou o Tio Tomioka, apenas um mero curioso em aprender a programar&image=https://i.ibb.co/kcMw5jF/me.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=Tio Tomioka&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/SilasJr-dev"><img src="https://cardivo.vercel.app/api?name=Tio Tomioka&description=Olá Tudo Bem?, eu sou o Tio Tomioka, apenas um mero curioso em aprender a programar&image=https://i.ibb.co/kcMw5jF/me.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=Tio Tomioka&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <p align="center"> <a href="Manish"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=SilasJr-dev&label=Visitantes&color=green&style=flat-square" alt="Tio Tomioka" /></a> </p><br> 
